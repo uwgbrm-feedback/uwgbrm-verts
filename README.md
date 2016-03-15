@@ -1,2 +1,2 @@
 # uwgbrm-verts
-Issue tracking for UWGBRM vertebrate data in the VertNet portal (portal.vertnet.org).
+Issue tracking for UWGBRM vertebrates data in the VertNet and other data portals. This data set corresponds to GBIF data set XXXX.
